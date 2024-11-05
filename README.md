@@ -27,7 +27,7 @@ Mata kuliah : Bahasa pemrograman <p>
 ![gambar1](Foto1.png)
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
-![gambar1](Foto2.png)
+![gambar1](Foto3.png)
 
 ## Latihan2: Laba
 ### Alur Algoritma Latihan2 :
@@ -51,7 +51,7 @@ ini hasil eksekusi program python diatas
     - Program selesai.
       
 ### Program python
-![gambar1](Foto3.png)
+![gambar1](Foto2.png)
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
 ![gambar1](Foto4.png)
